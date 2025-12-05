@@ -1,4 +1,3 @@
-Based on my analysis of the notebook and external research, I'll now create a refined, well-cited README for Project Norex.
 
 # Project Norex: Latent-Space Diffusion on Frozen LLMs
 ## Experimental Investigation & Failure Analysis
