@@ -232,9 +232,9 @@ This project tackles **multiple unsolved research problems simultaneously:**
 - **Platform:** Google Colab with A100 GPU (40GB VRAM)
 - **Libraries:** PyTorch 2.x, Transformers 4.40.0, HuggingFace Datasets, tqdm
 - **Training Time:**
-  - Hidden-state extraction: ~30 minutes (300k samples)
-  - VAE training: ~2 hours (20 epochs)
-  - Flow matching: ~1.5 hours (40 epochs)
+  - Hidden-state extraction: ~2 Hours (300k samples)
+  - VAE training: Unmeasured(20 epochs)
+  - Flow matching: Unmeasured (40 epochs)
 - **Model Checkpoints:** `vae_mistral_wiki_heavy.pt`, `flow_mistral_wiki_heavy.pt`
 
 **Note:** Due to sampling stochasticity and hardware variance, exact outputs may differ across runs even with fixed seeds.
